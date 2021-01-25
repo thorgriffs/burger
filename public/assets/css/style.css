@@ -1,23 +1,28 @@
 p {
-  font-size: 18px;
+  font-size: 16px;
   padding: 2px;
 }
-/* li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
-  }
-  
-  .label {
-    font-weight: bold;
-  }
-  
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
-  
-  .form-group {
-    margin-bottom: 5px;
-  } */
+
+ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+li {
+  text-align: left;
+  line-height: 70%;
+  padding: 3px;
+  margin: 5px;
+  background: #ffffff
+}
+
+h5 {
+  text-align: center;
+}
+
+button.change-devoured {
+  height: 30px;
+  position: relative;
+  float: right;
+  margin-right: 2px;
+}
