@@ -1,4 +1,8 @@
-li {
+p {
+  font-size: 18px;
+  padding: 2px;
+}
+/* li {
     padding: 5px;
     margin: 5px;
     background: #faebd7;
@@ -16,4 +20,4 @@ li {
   
   .form-group {
     margin-bottom: 5px;
-  }
+  } */
