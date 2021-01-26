@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This is a coding bootcamp homework assignment to create a "burger logger" with MySQL, Node, Exress, Handlebars, and a homemade ORM. The application, deployed on Heroku, allows a user to update a list of burgers to eat and then track eaten burgers.  It uses an express backend and retrieves burger data from a MySQL database.
+This is a coding bootcamp homework assignment to create a "burger logger" with MySQL, Node, Exress, Handlebars, and a homemade ORM. The application, deployed on Heroku, allows a user to update a list of burgers to eat, and then track eaten burgers.  It uses an express backend and retrieves burger data from a MySQL database.
 
 
 ## Table of Contents
