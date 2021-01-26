@@ -16,7 +16,7 @@ The [Eat-Da-Burger!](https://whispering-thicket-86767.herokuapp.com/) applicatio
 
 Enter a burger you want to eat and click the "Submit" button.  Click the "Devour It!" button to add a burger to the "Devoured Burgers!" list
 
-![Eat-Da-Burger Demo](.\public\assets\eat-da-burger-demo.gif)
+![Eat-Da-Burger Demo](./public/assets/eat-da-burger-demo.gif)
 
 
 ## Contributing
