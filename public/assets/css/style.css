@@ -1,11 +1,10 @@
 p {
-  font-size: 16px;
+  font-size: 14px;
   padding: 2px;
 }
 
 ul {
   list-style-type: none;
-  margin-left: 0;
 }
 
 li {
@@ -13,7 +12,7 @@ li {
   line-height: 70%;
   padding: 3px;
   margin: 5px;
-  background: #ffffff
+  background: #ffffff;
 }
 
 h5 {
@@ -25,4 +24,5 @@ button.change-devoured {
   position: relative;
   float: right;
   margin-right: 2px;
+  font-size: 14px;
 }

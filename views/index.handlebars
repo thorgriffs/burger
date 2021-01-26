@@ -8,10 +8,10 @@
   <div class="row mb-1 justify-content-md-center">
     <div class="col-md-4">
       <h5>Burgers To Devour!</h5>
-      <ul>
+      <ul class="list-group">
         {{#each burgers}}
           {{#unless devoured}}
-            <li>
+            <li class="list-group-item">
               <p style="display: inline-block;">
                 {{this.id}}. {{this.burger_name}}
               </p>
@@ -25,10 +25,10 @@
     </div>
     <div class="col-md-4">
       <h5>Devoured Burgers!</h5>
-      <ul>
+      <ul class="list-group">
         {{#each burgers}}
           {{#if devoured}}
-            <li>
+            <li class="list-group-item">
               <p>
                 {{this.id}}. {{this.burger_name}}
               </p>  
